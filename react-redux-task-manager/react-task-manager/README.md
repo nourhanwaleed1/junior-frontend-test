@@ -13,13 +13,12 @@ https://www.figma.com/community/file/1631224166657141601
 
 ### Desktop View
 
-![Desktop Screenshot](YOUR_IMAGE_LINK)
+https://drive.google.com/file/d/1D_hex0ucV0LZLbtkjgP1OcKm2ClkQmko/view?usp=sharing
 
 
 ### Mobile Responsive View
 
-![Mobile Screenshot](YOUR_IMAGE_LINK)
-
+https://drive.google.com/file/d/1f-ZgtPfdH26isuixfuENNIv5wUI8OroV/view?usp=drive_link
 
 
 ## ✨ Features
@@ -169,8 +168,3 @@ Possible improvements for future versions:
 
 Frontend Developer
 
-GitHub:
-YOUR_GITHUB_LINK
-
-LinkedIn:
-YOUR_LINKEDIN_LINK
