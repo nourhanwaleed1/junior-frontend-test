@@ -9,17 +9,16 @@ The application UI was designed in Figma.
 Web Version (Figma):
 https://www.figma.com/community/file/1631224166657141601
 
-## 📸 Screenshots
+## 📸 Screenshots and demo
 
 ### Desktop View
 
-https://drive.google.com/file/d/1D_hex0ucV0LZLbtkjgP1OcKm2ClkQmko/view?usp=sharing
+https://drive.google.com/file/d/1f-ZgtPfdH26isuixfuENNIv5wUI8OroV/view?usp=drive_link
 
 
 ### Mobile Responsive View
 
-https://drive.google.com/file/d/1f-ZgtPfdH26isuixfuENNIv5wUI8OroV/view?usp=drive_link
-
+https://drive.google.com/file/d/1ywgylF6UCH_qIIWbmHQr2C7W7zBP57SP/view?usp=drive_link
 
 ## ✨ Features
 
