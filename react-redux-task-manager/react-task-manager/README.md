@@ -1,14 +1,13 @@
-# Task Manager App
+# Task Manager App Web
 
 A responsive Task Management application built with React and Redux Toolkit, focusing on clean UI structure, state management, and a smooth user experience across different screen sizes.
 
-##  Design
+🎨 Design
 
-The application UI was designed using Figma.
+The application UI was designed in Figma.
 
-Figma Design:
-[View Figma File](YOUR_FIGMA_LINK)
-
+Web Version (Figma):
+https://www.figma.com/community/file/1631224166657141601
 
 ## 📸 Screenshots
 
